@@ -3,11 +3,11 @@ This Repo containes the implemnetation of generating Guided-GradCAM for 3D medic
 
 ## Files:
 ```ruby  
-        i) guided_Gradcam3D.py        -|--> Generate Guided-GradCAM , input and output nifti data
-       ii) Guided_GradCAM_3D_config.py |--> Configuration file for the Guided-GradCAM, Modify based on your need
-      iii) Resnet_3D.py                |--> Network architecture
-       iv) deploy_config.py               |--> Configuration file for the Network, Modify based on your need
-        v) loss_funnction_And_matrics.py -|--> Loss functions for CNN
+   i) guided_Gradcam3D.py        -|--> Generate Guided-GradCAM , input and output nifti data
+  ii) Guided_GradCAM_3D_config.py |--> Configuration file for the Guided-GradCAM, Modify based on your need
+ iii) Resnet_3D.py                |--> Network architecture
+  iv) deploy_config.py               |--> Configuration file for the Network, Modify based on your need
+   v) loss_funnction_And_matrics.py -|--> Loss functions for CNN
 ```     
 ## How to run
 
