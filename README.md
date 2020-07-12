@@ -50,6 +50,6 @@ SAVE_PATH="/Output/niftydata/path/ML_Guided_GradCaN_XXXX.nii.gz"
 
 ## Sample Guided-GardCAM
 
-![SAMPLE Guided-GradCAM1]()
-![SAMPLE Guided-GradCAM2]()
-![SAMPLE Guided-GradCAM3]()
+![SAMPLE Guided-GradCAM1](https://github.com/fitushar/3D-GuidedGradCAM-for-Medical-Imaging/blob/master/figures/example1.PNG)
+![SAMPLE Guided-GradCAM2](https://github.com/fitushar/3D-GuidedGradCAM-for-Medical-Imaging/blob/master/figures/example2.PNG)
+![SAMPLE Guided-GradCAM3](https://github.com/fitushar/3D-GuidedGradCAM-for-Medical-Imaging/blob/master/figures/example3.PNG)
