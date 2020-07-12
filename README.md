@@ -47,3 +47,9 @@ LAYER_NAME='conv3d_18' # Name of the layer from where you want to get the Guided
 NIFTI_PATH="imput/niftidata/path/XXX.nii.gz"
 SAVE_PATH="/Output/niftydata/path/ML_Guided_GradCaN_XXXX.nii.gz"
 ```
+
+## Sample Guided-GardCAM
+
+![SAMPLE Guided-GradCAM1]()
+![SAMPLE Guided-GradCAM2]()
+![SAMPLE Guided-GradCAM3]()
